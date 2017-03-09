@@ -37,5 +37,8 @@ h4 {
     margin: 0;
 }
 
+
 a:visited {color:#a0a0a0; background-color:transparent; text-decoration:none}
 a:hover   {color:#a0a0a0; background-color:transparent; text-decoration:none}
+a:active {color:#a0a0a0; background-color:transparent; text-decoration:none}
+a:link   {color:#a0a0a0; background-color:transparent; text-decoration:none}
