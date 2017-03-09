@@ -36,3 +36,6 @@ h4 {
     line-height: 16px;
     margin: 0;
 }
+
+a:visited {color:#a0a0a0; background-color:transparent; text-decoration:none}
+a:hover   {color:#a0a0a0; background-color:transparent; text-decoration:none}
