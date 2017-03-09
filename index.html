@@ -60,7 +60,7 @@
 
             for (var i = 0; i < p.length; i++) {
 
-                //p[i].polygon.material = Cesium.Color.fromCssColorString(setColor(p[i].properties.cnt));
+                p[i].polygon.material = Cesium.Color.fromCssColorString(setColor(p[i].properties.cnt));
                 p[i].polygon.extrudedHeight = p[i].properties.cnt * p[i].properties.cnt * 0.004 ;
                 p[i].polygon.outline = false;
             }
